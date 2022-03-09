@@ -9,3 +9,7 @@ Github Link: https://github.com/ljlm0402/typescript-express-starter
 Objection.js is an ORM (opens new window)for Node.js (opens new window)that aims to stay out of your way and make it as easy as possible to use the full power of SQL and the underlying database engine while still making the common stuff easy and enjoyable.
 
 Github Link: https://github.com/Vincit/objection.js/
+
+## TestContainers
+TestContainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+Github Link: https://github.com/testcontainers/testcontainers-node
